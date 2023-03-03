@@ -38,21 +38,21 @@ a::before {
 
 }
 
-#button {
+button {
     display: inline-block;
     background-color: #440044;
     padding: 18px 20px;
     margin-right: 0;
-    box-shadow: 5px 5px 0 #1D1A1A;
+    box-shadow: 5px 5px 0 #ffffff;
     border-radius: 12px;
 }
 
-#button:hover {
+button:hover {
     background-color: #5e015ea4;
     cursor: pointer;
 }
 
-img {   
+img {
     border-radius: 30px;
 }
 
